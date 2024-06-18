@@ -1,5 +1,5 @@
 name: shrine
-description: Learn the basics of using Material Components by building a simple app with core components.
+description: Discover how Material Components for Flutter make it easy to differentiate your product and express your brand through design.
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -19,7 +19,6 @@ dev_dependencies:
 
 flutter:
   # TODO: Insert Fonts (103)
-  # TODO: Insert Fonts (103)
   fonts:
     - family: Rubik
       fonts:
@@ -29,7 +28,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/diamond.png
-    # TODO: Add slanted menu asset (104)
+    # TODO: Add slanted menu asset (104)x
+    - assets/slanted_menu.png
     - packages/shrine_images/0-0.jpg
     - packages/shrine_images/1-0.jpg
     - packages/shrine_images/2-0.jpg
@@ -68,3 +68,4 @@ flutter:
     - packages/shrine_images/35-0.jpg
     - packages/shrine_images/36-0.jpg
     - packages/shrine_images/37-0.jpg
+
